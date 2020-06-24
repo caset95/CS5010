@@ -3,4 +3,3 @@ Assignment and project code done by me or in collaboration with others in the cl
 
 'HW_Python&WebScraper': individual assignment to create a simple webscraper 
 
-'Testing - commandline': This is practice for commit and push git commands.
